@@ -1,7 +1,7 @@
 # Named Entity Recognition example code
 (2021.04.13~04.14)
 
-## NER Basic code (실습환경 : colab)
+## NER Basic code (실습환경 : google colab)
 
 1. `./ner_basic_code/bi_lstm_ner_3_4.ipynb` : Bi-directional LSTM ner using Keras 
    - [참고3) 개체명 인식](https://wikidocs.net/30682)
