@@ -15,13 +15,14 @@ task : NER
 **Data Size**
 - 句数(number of phrases)
 - 字符数(Number of characters)
-Train data set ( [msra_train_bio.txt](msra_train_bio.txt) ):  
+
+### Train data set ( [msra_train_bio.txt](msra_train_bio.txt) ):  
 
 |句数|字符数|LOC数|ORG数|PER数|
 |:-:|:-:|:-:|:-:|:-:|
 |45000|2171573|36860|20584|17615|
 
-Test data set ( [msra_test_bio.txt](msra_test_bio.txt) )
+### Test data set ( [msra_test_bio.txt](msra_test_bio.txt) )
 
 |句数|字符数|LOC数|ORG数|PER数|
 |:-:|:-:|:-:|:-:|:-:|
