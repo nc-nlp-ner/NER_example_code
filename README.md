@@ -1,4 +1,4 @@
-# NLP task code
+# NLP example code
 
 ## Named Entity Recognition example code
 (2021.04.13~04.14)
