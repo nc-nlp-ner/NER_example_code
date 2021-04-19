@@ -1,21 +1,18 @@
 # NLP example code
 
-## Named Entity Recognition example code
-(2021.04.13~04.14)
+## 1. Named Entity Recognition example code
 
-### NER Basic code (실습환경 : google colab)
+- BiLSTM based ner : `./ner/bi_lstm`
 
-1. `./ner_basic_code/bi_lstm_ner_3_4.ipynb` : Bi-directional LSTM ner using Keras 
-   - [참고3) 개체명 인식](https://wikidocs.net/30682)
-   - [참고4) 개체명 인식의 BIO 표현 이해하기](https://wikidocs.net/24682)
-2. `./ner_basic_code/bi_lstm_ner_5.ipynb` : Bi-directional LSTM ner using Keras 
-   - [참고5) 양방향 LSTM을 이용한 개체명 인식](https://wikidocs.net/97519)
+- CRF based ner :  `./ner/crf`
 
-3. `./ner_basic_code/bi_lstm_ner_6.ipynb` : Bi-directional LSTM + CRF ner using Keras 
-   - [참고6) 양방향 LSTM과 CRF](https://wikidocs.net/34156)
+- BiLSTM-CRF based ner : `./ner/bi_lstm_crf`\
+
+------
 
 
-## Transformer example code
-(2021.04.18~)
+## 2. Transformer example code
+- Kowiki model & vocab : `./transformer/kowiki_vocab_data`
 
-- [코드 참고](https://paul-hyun.github.io/transformer-01/)
+- implementation code : `./transformer/transformer_with_kowiki.ipynb`
+
