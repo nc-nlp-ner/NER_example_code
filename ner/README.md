@@ -26,3 +26,8 @@
 
 3. `./bi_lstm_crf/pytorch_bi_lstm_crf_cn.ipynb` : chinese ner using pytorch
 
+### BERT  based ner: `./bert`
+
+1. `./bert/bert_based_ner_using_conll.ipynb` : conll eng ner tutorial
+   - [original code](https://colab.research.google.com/drive/14rYdqGAXJhwVzslXT4XIwNFBwkmBWdVV)
+

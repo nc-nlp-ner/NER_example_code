@@ -14,5 +14,7 @@
 ## 2. Transformer example code
 - Kowiki model & vocab : `./transformer/kowiki_vocab_data`
 
-- implementation code : `./transformer/transformer_with_kowiki.ipynb`
+- 구현 코드 : `./transformer/transformer_with_kowiki1~3.ipynb`
+
+  
 
