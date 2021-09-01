@@ -1,6 +1,6 @@
-# NLP example code
+# NLP Task
 
-## 1. Named Entity Recognition example code
+## 1. Named Entity Recognition 
 
 - BiLSTM based ner : `./ner/bi_lstm`
 
@@ -11,7 +11,7 @@
 ------
 
 
-## 2. Transformer example code
+## 2. Transformer 
 - Kowiki model & vocab : `./transformer/kowiki_vocab_data`
 
 - 구현 코드 : `./transformer/transformer_with_kowiki1~3.ipynb`
